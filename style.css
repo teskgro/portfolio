@@ -1,0 +1,219 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, s
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+html {
+    overflow: hidden;
+}
+
+body {
+    background-color: #000000;
+}
+
+.a {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transition: opacity 0.05s;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: contain;
+}
+
+.m {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 100;
+    cursor: crosshair;
+}
+
+.f {
+    background-size: cover;
+}
+
+.h {
+    /* opacity: 0; */
+    display: none;
+}
+
+#a1 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/1.jpg");
+}
+
+#a2 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/2.jpg");
+}
+
+#a3 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/3.jpg");
+}
+
+#a4 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/4.jpg");
+}
+
+#a5 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/5.jpg");
+}
+
+#a6 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/6.jpg");
+}
+
+#a7 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/7.jpg");
+}
+
+#a8 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/8.jpg");
+}
+
+#a9 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/9.jpg");
+}
+
+#a10 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/10.jpg");
+}
+
+#a11 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/11.jpg");
+}
+
+#a12 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/12.jpg");
+}
+
+#a13 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/13.jpg");
+}
+
+#a14 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/14.jpg");
+}
+
+#a15 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/15.jpg");
+}
+
+#a16 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/16.jpg");
+}
+
+#a17 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/17.jpg");
+}
+
+#a18 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/18.jpg");
+}
+
+#a19 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/19.jpg");
+}
+
+#a20 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/20.jpg");
+}
+
+#a21 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/21.jpg");
+}
+
+#a22 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/22.jpg");
+}
+
+#a23 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/23.jpg");
+}
+
+#a24 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/24.jpg");
+}
+
+#a25 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/25.jpg");
+}
+
+#a26 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/26.jpg");
+}
+
+#a27 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/27.jpg");
+}
+
+#a28 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/28.jpg");
+}
+
+#a29 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/29.jpg");
+}
+
+#a30 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/30.jpg");
+}
+
+#a31 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/31.jpg");
+}
+
+#a32 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/32.jpg");
+}
+
+#a33 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/33.jpg");
+}
+
+#a34 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/34.jpg");
+}
+
+#a35 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/35.jpg");
+}
+
+#a36 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/36.jpg");
+}
+
+#a37 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/37.jpg");
+}
+
+#a38 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/38.jpg");
+}
+
+#a39 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/39.jpg");
+}
+
+#a40 {
+    background-image: url("https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/40.jpg");
+}
