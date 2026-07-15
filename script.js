@@ -1,5 +1,5 @@
 const imageCount = 38;
-const folder = "https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com/";
+const folder = "https://wsdljvmarinlfsdkjsds.s3.eu-west-3.amazonaws.com";
 const extension = "jpg";
 const images = Array.from({ length: imageCount }, (_, i) => i + 1);
 
